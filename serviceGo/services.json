@@ -1,6 +1,27 @@
-{
-  "services": [
-    "SAMSUNG Mobile Connectivity Service",
-    "Server"
-  ]
-}
+[
+  {
+    "DisplayName": "AspContext",
+    "Name": "AspContext",
+    "IsMonitored": true
+  },
+  {
+    "DisplayName": "ASP.NET State Service",
+    "Name": "aspnet_state",
+    "IsMonitored": true
+  },
+  {
+    "DisplayName": "PageUp.AWSCredentialsGenerator",
+    "Name": "PageUp.AWSCredentialsGenerator",
+    "IsMonitored": true
+  },
+  {
+    "DisplayName": "PanGPS",
+    "Name": "PanGPS",
+    "IsMonitored": true
+  },
+  {
+    "DisplayName": "World Wide Web Publishing Service",
+    "Name": "W3SVC",
+    "IsMonitored": true
+  }
+]
